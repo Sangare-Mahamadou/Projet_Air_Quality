@@ -42,14 +42,15 @@ Ce projet vise à comprendre les niveaux de pollution, leurs variations géograp
 
 ---
 
-## 📂 Organisation du Projet
+## 📁 Structure du projet
 
-Projet_Air_Quality/
-│
-├── Data/ # Données brutes et nettoyées
-├── notebooks/ # Notebooks d’analyse (exploratoire, clustering, PCA…)
-├── Dashboard/ # Dashboard PowerBI
-└── README.md # Présentation du projet
+| Dossier/Fichier     | Description                                                  |
+|---------------------|--------------------------------------------------------------|
+| `Data/`             | Données brutes et nettoyées (CSV, Excel, etc.)               |
+| `notebooks/`        | Notebooks d’analyse (exploration, clustering, ACP...)        |
+| `Dashboard/`        | Dashboard interactif réalisé avec Power BI                   |
+| `README.md`         | Présentation générale du projet, objectifs et méthodologie   |
+
 
 
 ## 👨‍💻 Auteur
